@@ -1,7 +1,10 @@
 # Stubs: event booking system
    ![Stubs screenshot](docs/screenshot.png)
 React + Vite frontend on a Supabase (Postgres) backend.
+  ## Live demo
+  https://event-booking-system-six-psi.vercel.app
 
+  Demo login: demo@example.com / your-demo-password
 What the database enforces, not the UI:
 
 - **No double-booked venues:** an exclusion constraint rejects overlapping events in the same venue.
