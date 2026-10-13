@@ -1,5 +1,5 @@
 # Stubs: event booking system
-
+   ![Stubs screenshot](docs/screenshot.png)
 React + Vite frontend on a Supabase (Postgres) backend.
 
 What the database enforces, not the UI:
